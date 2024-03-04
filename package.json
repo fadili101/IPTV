@@ -1,0 +1,26 @@
+{
+  "name": "apiiptvparser",
+  "version": "1.0.0",
+  "description": "apiiptvparser is a powerful tool for extracting information from IPTV playlists. It provides the following features: - Retrieve all channels, movies, and series. - Calculate the total number of channels. - Calculate the total number of movies. - Calculate the total number of series. - Calculate the total number of channels per category. - Calculate the total number of movies per category. - Calculate the total number of series per category. - Search and display information about a channel, movie, or series based on the name.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/apiiptvparser.git"
+  },
+  "keywords": [
+    "IPTV",
+    "parser",
+    "channels",
+    "movies",
+    "series"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-username/apiiptvparser/issues"
+  },
+  "homepage": "https://github.com/your-username/apiiptvparser#readme"
+}
